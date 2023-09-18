@@ -8,7 +8,7 @@ date: 2023-09-18
 
 My name is Jackson. 
 
-I've just finished my last medical school examination. As a result of boredom/existentialism I have decided to launch this blog to ruminate on things, as I tend to do. Since I have no audience, this is essentially a more structured journal (reminds me of that meme)
+I've just finished my last medical school examination. As a result of boredom/existentialism I have decided to launch this blog to ruminate on things, as I tend to do. Since I have no audience, this is essentially a more structured journal.
 
 ![Ancient Rome does live rent free though](/images/intro_1.png)
 
