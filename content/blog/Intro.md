@@ -12,7 +12,7 @@ I've just finished my last medical school examination. As a result of boredom/ex
 
 ![Ancient Rome does live rent free though](/images/intro_1.png)
 
-Sometimes these thoughts are profound (or I like to think). 
+Sometimes these thoughts are profound (or so I like to think). 
 
 Most of the time they are not.
 
