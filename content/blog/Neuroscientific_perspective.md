@@ -6,7 +6,7 @@ description: "Neuroscience Nerd Rant"
 date: 2023-10-03
 ---
 
-_The contents of this article were initially part of the article ‘LFMS #2’, however I thought it was too tangential and frankly a little nerdy. I encourage you to read ["that post"](Lesson_2) if you are interested in methods I discovered were useful for studying in my final years of medical school._
+_The contents of this article were initially part of the article ‘LFMS #2’, however I thought it was too tangential and frankly a little nerdy. I encourage you to read ["that post"](https://jzfc.netlify.app/blog/Lesson_2) if you are interested in methods I discovered were useful for studying in my final years of medical school._
 
 ### Journey Inside the Brain
 
@@ -50,4 +50,4 @@ Naturally, if the goal is to become well-rounded doctors (or physicians at least
 
 Hence one must **repeatedly and consistently expose themselves** to the same conditions in different situations to develop the efficiency of their network representation of medicine. 
 
-**Question banks and spaced repetition** tools may be most time-effective (["see LFMS#2"](Lesson_2)), but nothing can replace the experiential learning of **real-world clinical exposure**.
+**Question banks and spaced repetition** tools may be most time-effective (["see LFMS#2"](https://jzfc.netlify.app/blog/Lesson_2), but nothing can replace the experiential learning of **real-world clinical exposure**.

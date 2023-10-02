@@ -86,7 +86,7 @@ To have a strong knowledge base is the **bare minimum** and a small task for the
 
 It is rather how **efficiently** that this information is stored, and the **strength and diversity of the connections** between different pools of knowledge that dictate how one will perform.
 
-I had initially written a section on the neural basis of how we learn and process new information, and the implications of this on optimal study methods, but this was too tangential to the spirit of this article. If you want to read this, see the post - ["The Neuroscientific Perspective on Learning"](Neuroscientific_perspective).
+I had initially written a section on the neural basis of how we learn and process new information, and the implications of this on optimal study methods, but this was too tangential to the spirit of this article. If you want to read this, see the post - ["The Neuroscientific Perspective on Learning"](https://jzfc.netlify.app/blog/Neuroscientific_perspective).
 
 ## Studying Efficiently - The Methods
 
