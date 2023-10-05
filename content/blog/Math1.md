@@ -1,8 +1,8 @@
 ---
 external: false
 draft: false
-title: "Some Maths Puzzles"
-description: "Mathidibi"
+title: "Elegant Maths: Three Selected Puzzles"
+description: "Maths doesn't have to be calculus and quadratics!"
 date: 2023-10-05
 ---
  
