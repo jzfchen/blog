@@ -8,9 +8,9 @@ date: 2023-11-11
 
 There is no doubt that we as a species have some innate attraction to music.
 
-The entanglement of man and music predates written history, and is pervasive in near all documented cultures. The first known musical instruments 
+The entanglement of man and music predates written history, and is pervasive in near all documented cultures. 
 
-Music has an undeniable ability to unite its listeners and performers. Church choirs belt out gospel hymns, metalheads get drowned in a sea of moshers, Swiftie superfans sway in unison to an encore of “Love Story”. 
+Music has an undeniable ability to unite its listeners and performers. Church choirs belt out gospel hymns, metalheads get drowned in a sea of moshers, Swiftie superfans sway in unison to an encore of “You Belong with Me”. 
 
 In modern times, music is found in many facets of our lives.
 
