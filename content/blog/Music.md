@@ -1,7 +1,7 @@
 ---
 external: false
 draft: false
-title: "What makes a good song?"
+title: "What makes music pleasurable?"
 description: "Neuroscience and music"
 date: 2023-11-11
 ---
@@ -14,7 +14,7 @@ Music has an undeniable ability to unite its listeners and performers. Church ch
 
 In modern times, music is found in many facets of our lives.
 
-Every brand has its jingle, every TV show has its theme song, every movie has its soundtrack. 
+Every brand has its jingle, every TV show has its theme song, every movie has its soundtrack. Our species' obsession with music has allowed it to exist as a vehicle to elevate other aspects of our culture, as well as an independent medium for mass consumption.
 
 ## Why have we evolved to enjoy music?
 
@@ -60,7 +60,7 @@ The “drop” is one possible reward, the moment when the music reaches its pea
 
 ## An experimental approach to musical pleasure
 
-Cheung et al. 2019, took a more scientific approach to investigating the components of a “pleasurable” song. Using a machine-learning model, they analysed 80,000 chords in 745 songs on the Billboard Hot 100 chart, and attempted to determine what exactly makes an enjoyable chord progression. 
+[Cheung and colleagues](https://pubmed.ncbi.nlm.nih.gov/31708393/) took a more scientific approach to investigating the components of a “pleasurable” song. Using a machine-learning model, they analysed 80,000 chords in 745 songs on the Billboard Hot 100 chart, and attempted to determine what exactly makes an enjoyable chord progression. 
 
 They found that musical enjoyment was modulated by two particular domains: **uncertainty** and **surprise**. 
 
@@ -71,7 +71,7 @@ When the first minor chord of the bridge, accompanying the despondent “I grew 
 
 Surprise, as defined by the study, instead arises when an heard chord deviates from expectations. This notion is particularly familiar to jazz listeners - the “stink face” feeling. That magical moment when a chord or melody is so unexpectedly delectable that it triggers an involuntary facial contortion. 
 
-["An example of the fabled 'stink face'"](https://youtu.be/hXtwHKVX-OY?si=K3DKRcB_G7mNFN3j&t=4v)
+[Click here for a 'stink face' in the wild](https://youtu.be/hXtwHKVX-OY?si=K3DKRcB_G7mNFN3j&t=4v)
 
 Interestingly, the  most musical enjoyment derived from chord progressions wasn’t just when there was a combination of high uncertainty and high surprise as you might have expected (surprise!). 
 
@@ -101,6 +101,6 @@ Not that we need the explicit approval of AI to enjoy anything (yet...).
 
 Do artists need to exploit these new neuroscientific findings to create fresh, catchy music? 
 
-Of course not. Just as mankind has been creating and enjoying music for millenia, oblivious to this information, we will be able to continue. 
+Just as mankind has been creating and enjoying music for millenia, oblivious to this information, we will be able to continue doing so for many years to come.
 
-What is exciting, is the idea that AI may be able to extrapolate, rather than interpolate musical ideas, to perhaps reach the next untapped frontier of music. 
+What is exciting, is the idea that AI may be able to extrapolate, rather than interpolate musical ideas, to perhaps reach the next frontier of music. Maybe the creator of [this legendary track](https://youtu.be/c4KNd0Yv6d0?si=9GGah8_joNDpTpaG) knows something we don't...
