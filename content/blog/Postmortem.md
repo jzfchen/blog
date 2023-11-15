@@ -1,7 +1,7 @@
 ---
 external: false
 draft: false
-title: "Post-mortem of the previous post"
+title: "Post-mortem"
 description: "Creative introspection - Writer's block"
 date: 2023-11-15
 ---
