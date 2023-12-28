@@ -6,7 +6,7 @@ description: "An exercise in reflection"
 date: 2023-11-25
 ---
 
-_Aboard the 16:51 KTX bullet train bound for Seoul, I have decided to set myself an exercise in reflection. I began to write this post at 5:00PM , and at 5:30PM sharp I will finish it. With no specific topic, muse, motive, expectations, I have set out to write anything that comes to mind._
+_Aboard the 16:51 KTX bullet train bound for Seoul, I have decided to set myself an exercise in reflection. I began to write this post at 5:00PM, and at 5:30PM sharp I will finish it. With no specific topic, muse, motive, expectations, I have set out to write anything that comes to mind._
 
 ## Reflection on China
 I have recently completed a month-long overseas elective at Ruijin Hospital in Shanghai, spending two weeks with the Haematology team and two weeks with Orthopaedics. The placement was not groundbreaking if I am to be honest. There is only so much motivation and desire to learn you can experience with the knowledge that this is the last placement of the last year of the medical degree. 
@@ -16,7 +16,7 @@ What I would like to reflect on is my time living in China. China has really und
 I suspect a large reason for this is that this was the first time I have been able to independently experience life in my family's ancestral home. I last visited in 2017 - I can only remember one time where I left the house without my parents (I think my sister and I went to get bubble tea). 
 
 ### Connectivity
-During my stay this year, what really stood out for me was the sheer level of **connectivity** that China has implemented in every facet of daily life. Literally everything can be bought by scanning a QR code. Shanghai's transport system is excellent could rent bikes, ride the metro, hail a DiDi from a single app. I realised much too late in the trip that dining services were even more convenient than I had thought, each chain had its own 'mini-app' that could be accessed from the same central app - we could order food for pick-up while still on the metro, then grab it straight away as we arrived. 
+During my stay this year, what really stood out for me was the sheer level of **connectivity** that China has implemented in every facet of daily life. Literally everything can be bought by scanning a QR code. Shanghai's transport system is excellent - we could rent bikes, ride the metro, hail a DiDi from a single app. I realised much too late in the trip that dining services were even more convenient than I had thought, each chain had its own 'mini-app' that could be accessed from the same central app - we could order food for pick-up while still on the metro, then grab it straight away as we arrived. 
 
 Food is cheap and high-quality in China. Unlike most Chinese restaurants in Western countries, which sell a bit of everything remotely Chinese, Shanghai eateries specialise in a certain type of food, often regional delicacies like Lanzhou noodles or my local doughy favourites - Xiaolongbao and Shengjianbao. 
 

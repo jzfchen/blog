@@ -1,0 +1,31 @@
+---
+external: false
+draft: true
+title: Death of a Night Owl
+description: Small changes
+date: 2023-12-17
+---
+
+_This is a stream-of-consciousness style post about some change I've been trying to implement in my life. I dictated this without much editing, apologies for any spelling or grammar mistakes_
+
+I'm dictating this post at 8:11 am, sitting on my couch downstairs, nursing a mug of instant coffee. To most, this is not a commendable achievement; in fact, it shouldn't be. However, in this moment, I feel proud of myself. I feel proud that I have designed a system that allows me to face one of my greatest weaknesses: being a night owl.
+
+There's nothing wrong with being a night owl, except for the fact that society, for some reason, has been designed with the expectation that 95% of people will wake up early, be productive early in the day, and retire early. When I say "society," I'm referring to Western society, particularly Australia. During my time in Korea, I was shocked to see that most shops, including cafes, would not open until after 12 pm. However, they would often stay open until after midnight. This was to my great delight—finally, a culture that matched my chronotype. When I picture Australian morning culture, I think of the beach bum carrying his surfboard, sipping a flat white at 5:30 am, ready for his morning dip before he cycles to work as a skateboard shop owner. Maybe this is something to do with the climate or the early-morning sunlight. Regardless, I had accepted long ago that the morning was not for me.
+
+The translation would be a classic case of adolescent delayed sleep-wake phase disorder—during weekdays, I would have to wake up on time, sometimes earlier than 7 am. I would stay up late past midnight as I felt like this was my natural impulse and get less than five hours of sleep. On the weekend, I would revert back to my natural pattern of waking up past 11 am. Without boring you about all the health risks of an irregular cycle, anyone who has slept irregularly can tell you how awful it makes you feel. Concentration, energy, and mental sharpness run dry. If you have some sort of exercise routine, you often lack both the physical energy and the mental drive to be consistent.
+
+Recently, I have been exercising quite consistently. In the past, I have undergone routines like this before; however, at the first sign of hardship or a schedule change, this routine would often fall into disarray. Usually, this would be during exam periods, holidays, events in my personal life, or sometimes just a dip in my motivation.
+
+Next year in January, I will be starting full-time work at a hospital as a doctor. This will likely be the biggest change I've ever experienced in my life. The hospital day usually begins at either 8 am or 7 am, depending on which team you're on. Junior doctors are expected to arrive 15 to 30 minutes before start time to prepare and organize for the day ahead. It doesn't take a mathematics genius to figure out that once you consider the time needed to get ready, eat, and commute to work, you likely need to be up before the sun rises most days.
+
+For a night owl like myself, who often doesn't even have time to grab a snack before rushing out the door, I knew I would have little hope of sustaining my exercise habit with this work schedule. Last year, I read James Clear's book "Atomic Habits." It takes a no-bullshit, approachable, and most importantly, actionable approach to establishing habits. I highly encourage everyone to give it a read.
+
+In one section, the book explains the benefits of habit stacking. Basically, he proposes that habits are best developed when you "stack" them on top of a pre-existing habit. So for the last week, I have been implementing this notion in my personal life through the use of a daily morning routine. I used to laugh at people who followed the morning routine; I would see the life of a CEO video on YouTube where they wake up at 4 am, meditate for one hour, take an ice-cold shower (conveniently flying off their chiseled, six-pack abs), and then take a 45-minute drive in the Ferrari. But recently, I've come to understand the benefits of starting your day the same way every day.
+
+For the last week, I've been waking up early, brushing my teeth, making my bed, trying and struggling to meditate for three minutes, going on a morning walk to expose myself to sunlight, then engaging in any form of exercise. To do this every day may seem easy to some people. I thought so too when I had designed this morning routine; however, I found it was very, very difficult to summon the motivation to not just roll over, snooze my alarm, or stay on my phone for 30 minutes in bed. In fact, every single one of these tasks, no matter how trivial they may seem, I consider a small win. The way I see it is that your life has so many unpredictable events and consequences, not all of which are beneficial; it can't hurt to start your day as a winner.
+
+I've also come to understand that to continue with a good habit requires more than motivation. It requires discipline. Motivation is a wonderful thing—it can guide us to what we truly desire. But it is fleeting. Discipline is what helps push us through times when motivation fails us. I believe every small win, especially one that you struggle to achieve, drives home the idea that you are disciplined even in the face of adversity.
+
+I know I haven't been doing this long, but part of me is hopeful that by having a system, I will be able to develop some new habits that allow me to grow into the person I want to be. In a way, this dictation is a form of accountability. I know the next year is going to be challenging—I'm hoping that keeping it simple, focusing on small wins, will allow me to keep working towards my goals steadily. 
+
+I'm sure I will be back at some point to discuss setbacks, relapses, failures. I see this as part of the process. I hope I can look back at this dictation and see the beginnings of some positive change, rather than wishful naivety.
