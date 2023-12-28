@@ -60,7 +60,7 @@ They utilised variations of this task below, known as mental rotation:
 
 ![png](/images/aphantasia/2.png)
 
-#### Which one of these 3D objects is the same as the one on top? Have a go now and reflect upon how you solved it. 
+#### Which one/s of these 3D objects is/are the same as the one on top? There may be more than one answer. Have a go now and reflect upon how you solved it. 
 
 Non-aphantasics might visualise the object as they rotate it through three-dimensions, trying to match it with one of the four objects. This method is likely primarily dependent on the same visuospatial circuitry you use when you physically rotate an object in the real world. 
 
