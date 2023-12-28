@@ -112,7 +112,7 @@ My second hypothesis is that while tapping into the same neural pathways, aphant
 ### Are aphantasics protected from PTSD?
 It is clear that there is a strong influence of visual imagery in certain mental health disorders such as schizophrenia, PTSD, and specific phobias. For PTSD in particular, vivid memory intrusions, often visual in nature, are thought to trigger an **individual’s appraisal of a previous trauma as a current threat**, contributing to significant distress.
 
-It is reasonable to assume that the **absence or decreased vividness of mental imagery might partially protect aphantasic individuals** from experiencing symptoms of PTSD. Dawes and colleagues (2020). 
+It is reasonable to assume that the **absence or decreased vividness of mental imagery might partially protect aphantasic individuals** from experiencing symptoms of PTSD.
 
 ![5.png](/images/aphantasia/5.png)
 
