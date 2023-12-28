@@ -35,4 +35,4 @@ There are many things I could discuss about China, its internal workings, its re
 
 _Wow! I really enjoyed that. I set myself a time limit and just spilled my bucket of thoughts onto my laptop. I'm surprised I managed to summon some semblance of structure, but that was really not the point. The time limit wasn't really the driving force here, but rather a creative stimulus to force myself to not dwell too much on a single thought (see last post for some details). I'm very glad I was able to write this post and look forward to doing more of these in the future._
 
-_I know myself, however, and know that unlethis sponss I am literally bound to one spot with little to do, I will probably not do this again spontaneously. I will see if this is something I wish to do maybe monthly, or every two months..._
+_I know myself, however, and know that unless I am literally bound to one spot with little to do, I will probably not do this again spontaneously. I will see if this is something I wish to do maybe monthly, or every two months..._

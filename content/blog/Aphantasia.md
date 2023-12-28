@@ -8,7 +8,9 @@ date: 2023-12-29
 
 ![png](/images/aphantasia/1.png)
 
-**For the next minute I want you to close your eyes and imagine a rising sun. Consider carefully the picture that comes before your mind’s eye. Is the image vivid and clear? Can you distinguish the vibrant hues that envelop the horizon? Does it resemble real life?**
+**_For the next minute I want you to close your eyes and imagine a rising sun. Consider carefully the picture that comes before your mind’s eye._**
+
+**_Is the image vivid and clear? Can you distinguish the vibrant hues that envelop the horizon? Does it resemble real life?_**
 
 For some, this mental imagery is an effortless task, a canvas upon which memories and fantasies can be painted. For others, it is impossible, they cannot form a visual image from their imagination. Welcome to the intriguing landscape of **‘phantasia’** - a spectrum which encompasses those with **hyperphantasia**, able to form extremely vivid and realistic mental imagery, and those with **aphantasia**, those who can form none. 
 
@@ -131,3 +133,5 @@ Let me know what you scored!
 I honestly can’t be bothered but if you really want sources this review good place to get started. I would recommend looking into Adam Zeman and Alexei Dawes work if you are interested (I know you’re not).
 
 _Arcangeli, M. Aphantasia demystified. Synthese 201, 31 (2023). https://doi.org/10.1007/s11229-022-04027-9_
+
+Thank you to Alisha for sharing her personal experience on aphantasia, my apologies for the jokes made at your expense.
