@@ -70,7 +70,7 @@ I think the problem really isn’t with dopamine release itself. Sure, too much 
 
 The main problem, in my opinion, is that succumbing to constant digital distraction has effects on attention and cognition that hinder our ability to achieve our goals productively. 
 
-***To illustrate my point I will briefly summarise the literature (I promise I won’t make it too boring…)**
+**To illustrate my point I will briefly summarise the literature (I promise I won’t make it too boring…)**
 
 ![png](/images/dopamine/2.png)
 
