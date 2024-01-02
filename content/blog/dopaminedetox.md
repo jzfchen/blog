@@ -79,7 +79,7 @@ The main problem, in my opinion, is that succumbing to constant digital distract
 1. Attention is a finite resource and scattered attention leads to poorer cognitive performance
 
 2. Smartphone use during a demanding cognitive task significantly disrupts attention
-3. Greater social media use outside of cognitively-demanding tasks predicts greater difficulty and poorer attention during productive tasks
+3. Greater social media use outside of cognitively-demanding tasks lead to greater difficulty in ignoring distractions and poorer attention during productive tasks
 
 These three points alone are enough to suggest that digital addiction predicts poorer attention during important tasks, impairing your productivity and overall success. 
 
@@ -87,7 +87,7 @@ In a psychological and biological sense, stopping yourself from obtaining a dopa
 
 In a more philosophical and metacognitive sense, I’d like to refer to the concept of ‘digital willpower’, the ability to resist the urge to occupy your boredom by checking your messages, listening to a podcast, or watching a video. This willpower is like a muscle, one that is exercised every time you are able to restrict yourself, and one that will be available when you really need to focus. Truly achieving a state of ‘Deep Work’ (coined in the book of the same title by author Cal Newport - another highly recommended read), free from distraction, presents a stronger sense of fulfilment that cannot be easily replicated. 
 
-I believe a constant need for distraction also takes away from the practice of meditative mindfulness, a practice that alone can reduce stress, uncertainty, and negative emotions. However, I will save this (perhaps) for a future post.
+I believe a constant need for distraction also distracts from the practice of meditative mindfulness, a practice that alone can reduce stress, uncertainty, and negative emotions. However, I will save this (perhaps) for a future post.
 
 With both rationalisations the importance of weaning yourself off reliance on digital distractions becomes apparent. 
 
