@@ -3,7 +3,7 @@ external: false
 draft: false
 title: "Dopamine Detox and Digital Distractions"
 description: "Freeing yourself from smartphone addiction"
-date: 2023-01-03
+date: 2024-01-03
 ---
 ![png](/images/dopamine/1.png)
 Sweeping across social media is the trend of the ‘dopamine detox’ - identifying behaviours that we default to for a quick boost in dopamine, sometimes referred to as the ‘reward’ neurotransmitter. This ranges from the most obvious distractions, being imprisoned in an endless Instagram Reel session or binging four seasons of Mr Robot in a week (couldn’t be me), to the more subtle ones, such as glancing at your phone every time it lights up with a notification, or checking your email every 10 minutes out of anticipation. 
