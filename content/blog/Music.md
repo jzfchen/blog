@@ -1,7 +1,7 @@
 ---
 external: false
 draft: false
-title: "What makes music pleasurable?"
+title: "What Makes Music Pleasurable?"
 description: "Neuroscience and music"
 date: 2023-11-11
 ---
