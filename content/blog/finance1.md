@@ -60,12 +60,12 @@ Who do you think will end up with more money at retirement?
 |---|---|---|
 | Starts when they are  |25 years old  | 35 years old |
 |  Each person invests $500 a month for |10 years  |30 years |
-| Account balance at 65 (8% p.a return)  |**$926600**  | **$750,148**  |
+| Account balance at 65 (8% p.a return)  |**$926,600**  | **$750,148**  |
 
  
 Arthur has saved an **extra $176,000 for retirement**, despite investing for one-third the time, having deposited $120,000 less, simply due to starting ten years early. 
 
-I know you know this already but still find myself surprised at how powerful time can be when I calculate examples like these. 
+I know you know this already but I still find myself surprised at how powerful time can be when I calculate examples like these. 
 
 **Your decision to start early will be your superpower!**
  
