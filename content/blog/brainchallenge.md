@@ -245,7 +245,9 @@ As such, I found myself blanking about two-thirds through my encoded sequence. T
 
 ## Final words
 
-Anyway this was a fun challenge to myself. Mentally-stimulating puzzles and challenges have always appealed to me; I'm hoping the research is right and this means I'm protected from dementia... 
+Anyway this was a fun challenge to myself. I'm surprised at how exhausted I feel - working at near-100% cognitive load for less than an hour has made me feel more spent than a full day of university lectures. I think I'm going to lie down...
+
+Mentally-stimulating puzzles and challenges have always appealed to me; I'm hoping the research is right and this means I'm protected from dementia... 
 
 I don't really think there's enough evidence to recommend stimulating your mind just for this purpose, but I would personally recommend it just to switch up from the mundane, low-cognitive-demand tasks that tends to populate our day-to-day lives (This is not a bad thing - we can't operate at full power all the time!) - using the incredible flexibility, creativity, and ingenuity of your brain can be lots of fun!
 
