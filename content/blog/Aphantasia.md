@@ -4,6 +4,7 @@ draft: false
 title: "Aphantasia: All the questions you can imagine"
 description: "Imagining a lack of imagination"
 date: 2023-12-29
+id: "Aphantasia"
 ---
 
 ![png](/images/aphantasia/1.png)
