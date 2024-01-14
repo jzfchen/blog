@@ -128,7 +128,7 @@ I still keep the picture that Haniya drew for me in my wallet to this day. With 
 
 In the same way, her passing serves as a reminder of my humanity and the purpose for which I’ve entered this field. I hope the compassion that Haniya inspired in me will never fade completely, but rather, be exercised with temperance. 
 
-_For confidentiality purposes, I have changed the names, ages, ethnicity, and occupation of all mentioned parties. The details of the medical conditions mentioned are loosely based off reality but significantly altered to remove identifiable information_
+_For confidentiality purposes, I have changed the names, ages, ethnicity, and occupation of all mentioned parties. The details of the medical condition and other occurrences are loosely based off reality but significantly altered to remove identifiable information_
 
 
 
