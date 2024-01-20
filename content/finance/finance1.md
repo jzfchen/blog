@@ -150,4 +150,4 @@ The second reason that you may be the biggest hindrance to accumulating wealth i
 
 ### Thanks for reading Part 1!
 
-Continue onwards to ["Part 2: Banks, Investments, and Super"](https://jzfc.netlify.app/blog/finance2) 
+Continue onwards to ["Part 2: Banks, Investments, and Super"](https://jzfc.netlify.app/finance/finance2) 

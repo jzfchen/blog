@@ -8,7 +8,7 @@ date: 2023-11-15
 
 ![block](/images/block.jpg)
 
-The last article on this blog was the one I have spent the most time on so far. It is the most complex, features the most research, analysis, and opinion. Despite this, it is probably the one I am least happy with, when considering the overall direction of this blog. 
+The [last article](/blog/Music) on this blog was the one I have spent the most time on so far. It is the most complex, features the most research, analysis, and opinion. Despite this, it is probably the one I am least happy with, when considering the overall direction of this blog. 
 
 From the conception of this article to its publication it has been **one whole Conference Week, one week of break, and a whole month in China**. This has most definitely broken my _"no more than 2 hours on a post"_ rule.  
 

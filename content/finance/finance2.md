@@ -98,7 +98,7 @@ Here are some popular high-interest savings accounts with reasonable “hoops”
 
 # Investment: the practical guide
 
-As you may know by now, I have an **unfortunate habit of yapping too much**. In fact I yapped so much that I had to move the first 2500 words of the Investment section to a separate article which you can read ["here"](https://jzfc.netlify.app/blog/finance5). 
+As you may know by now, I have an **unfortunate habit of yapping too much**. In fact I yapped so much that I had to move the first 2500 words of the Investment section to a separate article which you can read ["here"](https://jzfc.netlify.app/finance/finance5). 
 
 The supplementary article discusses some important introductory concepts to investment and details my journey in investment and what I learnt from it. I include some insights on why I believe index fund investing is the best choice for most people. More importantly, the content of that article will be **referred to heavily when discussing how to optimise your superannuation**. If this interests you I would suggest you read through to understand the rationale behind my investment and super recommendations.
 
@@ -222,7 +222,7 @@ Understanding your super means being able to take advantage of one of the **most
 
 Most super funds will offer a range of different products, including actively managed and passive funds. 
 
-I want you to think about super as just another form of the funds we introduced in ["the supplementary article"](https://jzfc.netlify.app/blog/finance5); it offers both passive and actively managed super products. 
+I want you to think about super as just another form of the funds we introduced in ["the supplementary article"](https://jzfc.netlify.app/finance/finance5); it offers both passive and actively managed super products. 
 
 The actively managed funds are the **same** as the ones I discussed in the last section, often they hide behind names like “Growth Plus” or “Core Strategy”, but it’s really the same thing - hiring a fund manager and team to constantly evaluate the asset holdings. They thus suffer from the same problems as all actively managed funds - you are paying high management fees for average/below average performance.
 
@@ -341,4 +341,4 @@ Don't live on baked beans and toast just to be able to afford to max it out. As 
 
 ### Thanks for reading Part 2!
 
-Continue onwards to ["Part 3: Conscious Spending Plan"](https://jzfc.netlify.app/blog/finance3) 
+Continue onwards to ["Part 3: Conscious Spending Plan"](https://jzfc.netlify.app/finance/finance3) 

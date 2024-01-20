@@ -1,7 +1,7 @@
 ---
 external: false
 draft: false
-title: "A 50-minute Brain Challenge"
+title: "Exercising the Brain"
 description: "Exercising my mind"
 date: 2024-01-09
 ---

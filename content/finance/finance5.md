@@ -10,7 +10,7 @@ date: 2024-01-07
 
 ![png](/images/finance/stonks.png)
 
-_Note: This is an adjunctive article to the ["Investment section"](https://jzfc.netlify.app/blog/finance2) of the main guide. While I would recommend you read this article first for a more comprehensive understanding of investment strategy, it is optional!_
+_Note: This is an adjunctive article to the ["Investment section"](https://jzfc.netlify.app/finance/finance2) of the main guide. While I would recommend you read this article first for a more comprehensive understanding of investment strategy, it is optional!_
 
 Investing is probably the aspect of personal finance that scares people the most. The savings and budgeting part is pretty intuitive, finding the best bank interest rates, some people are even savvy with real estate. 
 

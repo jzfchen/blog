@@ -1,7 +1,7 @@
 ---
 external: false
 draft: false
-title: "LFMS #3: Mortality"
+title: "Lessons from Medical School #3: Mortality"
 description: "My first dance with death"
 date: 2024-01-14
 ---

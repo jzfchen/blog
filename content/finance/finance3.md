@@ -241,6 +241,6 @@ Good luck!
 
 ### Thanks for reading Part 3!
 
-Continue onwards to ["Part 4: Automation, Tracking, and More"](https://jzfc.netlify.app/blog/finance4) 
+Continue onwards to ["Part 4: Automation, Tracking, and More"](https://jzfc.netlify.app/finance/finance4) 
 
 
