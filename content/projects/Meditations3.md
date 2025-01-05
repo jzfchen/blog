@@ -1,6 +1,6 @@
 ---
 external: false
-draft: false
+draft: true
 title: "Meditations #3"
 description: "Meditations"
 date: 2024-02-03

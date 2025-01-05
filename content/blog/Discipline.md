@@ -1,6 +1,6 @@
 ---
 external: false
-draft: false
+draft: true
 title: "Achieving Fulfilment: The Science of Discipline and Willpower"
 description: Discipline
 date: 2024-01-13
